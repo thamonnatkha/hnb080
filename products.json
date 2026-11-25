@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Raw Honey",
+    "price": 159,
+    "image": "/images/rawhoney.jpg",
+    "description": "น้ำผึ้งแท้ธรรมชาติ ไม่ผ่านความร้อน คงกลิ่นหอมและรสชาติบริสุทธิ์จากรวงผึ้ง"
+  },
+  {
+    "id": 2,
+    "name": "Honey Jelly",
+    "price": 189,
+    "image": "/images/honeyjelly.jpg",
+    "description": "เยลลี่น้ำผึ้งเนื้อนุ่มละมุน หอมหวานเบาๆ ทานง่าย เหมาะเป็นของว่างหรือของขวัญ"
+  },
+  {
+    "id": 3,
+    "name": "Honey Candies",
+    "price": 89,
+    "image": "/images/honeycandies.jpg",
+    "description": "ลูกอมน้ำผึ้งรสหวานนุ่ม พกพาสะดวก เติมความสดชื่นได้ทุกช่วงเวลา"
+  }
+]
